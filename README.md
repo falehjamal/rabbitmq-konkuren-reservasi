@@ -13,8 +13,8 @@ Proyek ini mendemonstrasikan bagaimana cara mengimplementasikan sistem reservasi
 1.  **Clone repositori:**
 
     ```bash
-    git clone [https://github.com/username/reservasi-tiket.git](https://github.com/username/reservasi-tiket.git)
-    cd reservasi-tiket
+    git clone https://github.com/falehjamal/rabbitmq-konkuren-reservasi(https://github.com/falehjamal/rabbitmq-konkuren-reservasi)
+    cd rabbitmq-konkuren-reservasi
     ```
 
 2.  **Install dependencies Composer:**
