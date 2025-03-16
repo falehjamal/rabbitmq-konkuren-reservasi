@@ -13,7 +13,7 @@ Proyek ini mendemonstrasikan bagaimana cara mengimplementasikan sistem reservasi
 1.  **Clone repositori:**
 
     ```bash
-    git clone https://github.com/falehjamal/rabbitmq-konkuren-reservasi(https://github.com/falehjamal/rabbitmq-konkuren-reservasi)
+    git clone https://github.com/falehjamal/rabbitmq-konkuren-reservasi.git
     cd rabbitmq-konkuren-reservasi
     ```
 
@@ -34,8 +34,8 @@ Proyek ini mendemonstrasikan bagaimana cara mengimplementasikan sistem reservasi
     ```ini
     RABBIT_HOST=localhost
     RABBIT_PORT=5672
-    RABBIT_USER=faleh
-    RABBIT_PASSWORD=faleh
+    RABBIT_USER=guest
+    RABBIT_PASSWORD=guest
 
     DB_HOST=localhost
     DB_NAME=reservasi
