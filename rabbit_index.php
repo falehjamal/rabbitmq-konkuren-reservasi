@@ -63,7 +63,7 @@
     }
 
     // Panggil fungsi setiap 1 detik
-    setInterval(fetchQueueStatus, 1000);
+    setInterval(fetchQueueStatus, 2000);
 
     // Panggil sekali untuk memuat data saat halaman dibuka
     fetchQueueStatus();
